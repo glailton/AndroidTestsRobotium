@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCalculator</string>
+    <string name="hello">Enter two values and click on Calculate to multiply them</string>
+    <string name="txtFirstNumber">Enter first number</string>
+    <string name="txtSecondNumber">Enter second number</string>
+    <string name="txtSpace"></string>
+    <string name="btnMultiply">Multiply</string>
+</resources>
